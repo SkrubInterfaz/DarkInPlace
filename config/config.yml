@@ -1,0 +1,28 @@
+#Ce fichier contiens la config de base du serveur---
+Pied:
+    facebook: https://facebook.com/votre.page
+    twitter: https://twitter.com/craftmywebsite
+    youtube: https://www.youtube.com/channel/UCzkhnB95d0SCLU2zrTWEBOQ
+    discord: https://discord.gg/cVw9UkU
+All:
+    Seo:
+        color: "100096"
+        name: 'Nom du serveur - Serveur Minecraft'
+        description: "Rejoignez nom de votre serveur à l'adresse play.votreserveur.fr"
+        image: https://theme-pour-votre.site/dip/theme/DarkTheme/images/fav.gif
+        google: Votre token google
+        bing: Votre token bing
+Slides:
+    1:
+      message: "Bienvenue sur notre site web!"
+      image: "theme/DarkTheme/images/miniature-demo-1.jpg"
+    2:
+      message: "Rejoignez notre serveur dés maintenant, play.monserveur.fr"
+      image: "theme/DarkTheme/images/miniature-demo-2.jpg"
+    3:
+      message: "Rendez-vous sur notre forum pour interagir avec notre communauté !"
+      image: "theme/DarkTheme/images/miniature-demo-3.jpg"
+cookies:
+    bg: 1A1A1A
+    bouton: 000
+    message: Ce site utilise des cookies pour vous garantir la meilleure expérience sur notre site.
